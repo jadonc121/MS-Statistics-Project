@@ -1,6 +1,6 @@
 # A Comparison of Time Series Forecasting Methods: Classical to Deep Learning
 
-_**Early work (2021-2022).** This was my first large end-to-end project, written as a single exploratory notebook before I moved into industry. The report was the main deliverable. I've kept it as submitted to show my starting point. I now build projects as modular, reusable Python packages. See [my GitHub profile](https://github.com/jadonc121) for what that looks like._
+_**Early work (2021-2022).** This was my first large end-to-end project, written as a single exploratory notebook before I moved into industry. The report was the main deliverable. I've kept it as submitted to show my starting point. I now build projects as modular, reusable Python packages. See [my current project](https://github.com/jadonc121/causal-inference) for what that looks like._
 
 Master's project for the M.S. in Statistics, University of Colorado Denver (2021-2022).
 **Full write-up:** [MS Project Report.pdf](MS%20Project%20Report.pdf) | **Code:** [MS Project Workbook FINAL.ipynb](MS%20Project%20Workbook%20FINAL.ipynb)
